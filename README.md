@@ -239,14 +239,18 @@ Complete audit trail enables:
 
 ### 📺 Video Presentation
 This repository describes the causal inference framework and experimental results for early stroke detection.  
-Watch the project presentation: 
+Watch the project presentation: https://youtu.be/5Qn9xal6eZ0
+
+###  🎤 Presentation
+Access the project presentation slides here: 
 
 
+ 
 ## 📝 Citation
 
 If you use this work in your research, please cite:
 
-Owusu, D. Blemano T.A.D (2025). Explainable AI for Stroke Detection: Causal and Clinician-Centered Interpretation of Brain Imaging.
+Owusu, D. Blemano, T.A.D (2025). Explainable AI for Stroke Detection: Causal and Clinician-Centered Interpretation of Brain Imaging.
 
 
 ## 🤝 Contributing
